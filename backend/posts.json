@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "text": "Best travel destinations for 2024",
+    "author": "Anna",
+    "comments": [
+      {
+        "id": "1c0",
+        "author": "Anna",
+        "text": "I've been thinking about taking a trip to Japan next year! I've heard spring is amazing with the cherry blossoms in full bloom. Has anyone been?",
+        "likes": 6,
+        "replies": [
+          {
+            "id": "h4hGY9WLrDzQLy5cglN8O",
+            "author": "Mark",
+            "text": "@Anna Yes! I went to Japan last year during spring, and the cherry blossoms are breathtaking. If you go, make sure to visit Kyoto. The temples and gardens are magical.",
+            "replyTo": "Anna",
+            "likes": 5
+          },
+          {
+            "id": "h4hGY9WLrDzQLy5cglN81",
+            "author": "Anna",
+            "text": "@Mark Kyoto sounds beautiful! I’ll definitely add it to my list. Did you travel around Japan a lot or stay mostly in one city?",
+            "replyTo": "Mark",
+            "likes": 2
+          },
+          {
+            "id": "h4hGY9WLrDzQLy5cglN82",
+            "author": "Mark",
+            "text": "@Anna I traveled around quite a bit—Tokyo, Osaka, and Kyoto. Each city has its own vibe. If you like modern city life, Tokyo is amazing, but Kyoto is definitely more peaceful and traditional.",
+            "replyTo": "Anna",
+            "likes": 1
+          }
+        ]
+      },
+      {
+        "id": "1c1",
+        "author": "Sophia",
+        "text": "I’m planning a trip to Italy this summer! I’ve always wanted to see the Amalfi Coast. It looks like such a dream with the colorful villages and clear blue water. Has anyone been to Italy recently?",
+        "likes": 5,
+        "replies": []
+      },
+      {
+        "id": "1c2",
+        "author": "David",
+        "text": "Italy is fantastic! I went to Rome last summer. The history there is incredible, but it gets super crowded in the tourist spots. I’d recommend going early in the morning if you want to see the Colosseum or Vatican without huge crowds.",
+        "likes": 3,
+        "replies": [
+          {
+            "id": "h4hGY9WLrDzQLy5cglN83",
+            "author": "Sofia",
+            "text": "@David Thanks for the tip! I’m not a fan of big crowds, so I’ll try to go early. Any hidden gems in Rome that aren't packed with tourists?",
+            "replyTo": "David",
+            "likes": 1
+          },
+          {
+            "id": "h4hGY9WLrDzQLy5cglN84",
+            "author": "David",
+            "text": "@Sofia Yeah, you should check out the Trastevere neighborhood! It’s less touristy, with charming cobblestone streets and amazing local food. You’ll love it!",
+            "replyTo": "Sofia",
+            "likes": 2
+          }
+        ]
+      },
+      {
+        "id": "1c3",
+        "author": "Emma",
+        "text": "I’m more into adventure travel. I'm thinking of hiking in Patagonia next year. I’ve always wanted to visit Torres del Paine National Park. Has anyone done long-distance hikes? Any tips?",
+        "likes": 1,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "text": "Best movies to watch in 2024",
+    "author": "James",
+    "comments": []
+  },
+  {
+    "id": "3",
+    "text": "Favourite pets and their personalities",
+    "author": "Megan",
+    "comments": []
+  },
+  {
+    "id": "4",
+    "text": "Changing seasons and weather preferences",
+    "author": "Laura",
+    "comments": []
+  },
+  {
+    "id": "5",
+    "text": "Changing seasons and weather preferences",
+    "author": "Laura",
+    "comments": []
+  }
+]
